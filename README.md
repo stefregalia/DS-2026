@@ -1,32 +1,45 @@
-# Computational Probability, Spring 2024
+# Computational Probability, Fall 2024
 
 ## Overview
 
 This course is all about variation, uncertainty, and randomness.  Students will learn the vocabulary of uncertainty and the mathematical and computational tools to understand and describe it.
 
-## Instructor
+## Instructors
 
-[Thomas Stewart](https://tgstewart.xyz)  
-Elson Building, 400 Brandon Ave, Room 156  
+Section 001: [Thomas Stewart](https://tgstewart.xyz)  
+1919 Ivy Rm 348  
 thomas.stewart@virginia.edu  
 Github: thomasgstewart
+
+Section 002: [Gianluca Guadagni]()  
+1919 Ivy Rm 431  
+gg5d@virginia.edu  
+Github: gg5d
 
 ## Teaching assistants
 
 Ethan Nelson  
 Graduate student in Data Science  
 ean8fr@virginia.edu  
-Github: eanelson01  
+Github: eanelson01
+
+Lathan Gregg  
+Graduate student in Data Science  
+uua9gw@virginia.edu  
+Github: lathangregg
 
 ## Instruction & Office hours
 
 **Format of the class:** In-class time will be a combination of lectures, group assignments, live coding, and student presentations.  **Please note:** Circumstances may require the face-to-face portion of the class to be online.
 
-**Time:** MWF, 10 - 10:50am, Dell 1 Room 105  
+**Time & Location:** Tues & Thurs, Data Science building Rm 206 10
 
-**Instructor Office Hours:**  MW, 11am, Dell 1 Commons (The instructor will leave if there are no questions after 15 minutes.)  
+Section 001:  9:30 - 10:45am
+Section 002: 11:00 - 12:15am
 
-**TA Office Hours:**  Thursdays, 1pm, Dell 1 Commons  
+**Instructor Office Hours:** TBD, based on feedback during the first day of class 
+
+**TA Office Hours:**  TBD, based on feedback during the first day of class
 
 ## Textbooks 
 
@@ -142,13 +155,13 @@ Deliverables are larger assignments than homework.  To complete the deliverables
 
 Midterm exams are graded on a 100 point scale.  For midterm 1, if your grade on midterm 2 or the final is higher, the higher score will replace the score for midterm 1.  Likewise, for midterm 2, if your grade on the final exam is higher, the higher score will replace the score for midterm 2.  For example, suppose your exams scores for the midterms and final were 72, 88, 85.  For the purposes of the final grade, your exam scores would be 88, 88, 85.
  
-The final exam is Thursday, May 9 at 9:00am, as assigned by the university.  Approximately one week prior to the exam, the instructor will provide a set of questions for which students will prepare solutions and written explanations. During the final exam period, the instructor will provide a supplementary set of questions related first. For example, the instructor may ask:
+## Final exam schedule
 
-* Please explain how you solved a particular question in the initial set.
-* Please solve a new question (perhaps closely related to a question in the initial set).  
-* Please explain course topic X.  
+| Section | Date & Time |
+|:---|:---|
+| 001 | Tuesday, December 17, 2024  2:00PM-5:00PM |
+| 002 | Monday, December 16, 2024  9:00AM-12:00PM |
 
-Students will be graded on both the accuracy of their responses and the clarity with which they explain course concepts and solutions to questions. 
 
 ## 2024 Calendar
 
@@ -157,7 +170,26 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 <!-- <details><summary>Reading</summary></details> -->
 | Mon | Tue | Wed | Thu | Fri |
 |:---|:---|:---|:---|:---|
-| Jan<br>&nbsp; | | 17<br>[Survey/Github setup](https://link.tgstewart.xyz/survey) | | 19<br><details><summary>Reading</summary>[Get started guide](https://rmarkdown.rstudio.com/lesson-1.html)</details>[Intro R](https://tgstewart.cloud/into-r.pptx) |
+| Aug&nbsp; |27<br>&nbsp; |  | 29<br>&nbsp; |   |
+| Sep<br>&nbsp; |3<br>&nbsp; |  | 5<br>&nbsp; |   |
+| |10<br>Add deadline<br>&nbsp; |11<br>Drop deadline  | 12<br>&nbsp; |   |
+| |17<br>&nbsp; |  | 19<br>&nbsp; |   |
+| |24<br>&nbsp; |  | 26<br>&nbsp; |   |
+| Oct<br>&nbsp;| 1<br>&nbsp; |  | 3<br>&nbsp; |   |
+| | 1<br>&nbsp; |  | 3<br>&nbsp; |   |
+| | 8<br>&nbsp; |  | 10<br>&nbsp; |   |
+| | 15<br>Fall reading day<br>No class |  | 17<br>&nbsp; |   |
+| | 22<br>Drop (with W) deadline |  | 24<br>&nbsp; |   |
+| | 29<br>&nbsp; |  | 31<br>Nevada Day&nbsp; |Nov<br>&nbsp;|
+| | 5<br>Election day<br>No class |  | 7<br>&nbsp; |   |
+| | 12<br>&nbsp; |  | 14<br>&nbsp; |   |
+| | 19<br>&nbsp; |  | 21<br>&nbsp; |   |
+| | 26<br>Thanksgiving<br>No class |  | 28<br>Thanksgiving<br>No class |   |
+|Dec<br>&nbsp; | 3<br>&nbsp; |  | 5<br>Last day of class |   |
+| | 10<br>&nbsp; |  | 12<br>&nbsp; |   |
+| 16<br>&nbsp; | 17<br>&nbsp; |  |  |   |
+
+<!-- | Jan<br>&nbsp; | | 17<br>[Survey/Github setup](https://link.tgstewart.xyz/survey) | | 19<br><details><summary>Reading</summary>[Get started guide](https://rmarkdown.rstudio.com/lesson-1.html)</details>[Intro R](https://tgstewart.cloud/into-r.pptx) |
 | 22<br><details><summary>Reading</summary>[Intro Markdown](https://markdownguide.offshoot.io/getting-started/)<br>[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)</details>| | 24<br>[Tools](https://tgstewart.cloud/tools.pptx)<br>[Reproducable Reports](http://tgstewart.xyz/reproducible-research-tools/) | | 26<br>DUE: [HW1](https://github.com/UVADS/DS-2006/blob/main/assignments/hw1-euler-problems.md)<br><details><summary>Reading</summary>(optional) First 5 videos of [Learn R Programming](https://www.youtube.com/playlist?list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg)<br>(optional) [Intro to VS Code](https://www.youtube.com/watch?v=B-s71n0dHUk)<br>(optional) [Using Git with Visual Studio Code](https://www.youtube.com/watch?v=i_23KUAEtUM) Note that you have already cloned your repo locally, whereas the video creates a fresh repo. </details> |
 | 29<br>DUE: [HW2](https://github.com/UVADS/DS-2006/blob/main/assignments/hw2-euler-problems-rmarkdown.md)<br>[Rstudio on Rivanna](https://tgstewart.cloud/rivanna-rstudio.pptx) | | 31<br>&nbsp; | Feb<br>&nbsp; | 2<br>DUE: [HW3](https://github.com/UVADS/DS-2006/blob/main/assignments/hw3-r-practice.md)<br><details><summary>Reading</summary>[Understanding uncertainty](https://ebookcentral.proquest.com/lib/uva/reader.action?docID=1574353), CH 1</details> |
 | 5<br>DUE: [HW4](https://github.com/UVADS/DS-2006/blob/main/assignments/hw4-uncertainty.md) | | 7<br>DUE: [HW5](https://github.com/UVADS/DS-2006/blob/main/assignments/hw5-calculus-of-belief.md) <br> DUE: [HW1](https://github.com/UVADS/DS-2006/blob/main/assignments/hw1-euler-problems.md) Resubmission <br>[Operating Characteristics](https://tgstewart.cloud/01-probability-definition-slides.html)<br> | | 9<br>DUE: [HW6](https://github.com/UVADS/DS-2006/blob/main/assignments/hw6-birthday-problem.md)<br>DUE: [HW2](https://github.com/UVADS/DS-2006/blob/main/assignments/hw2-euler-problems-rmarkdown.md) Resubmission |
@@ -173,7 +205,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | 15<br> DUE: [HW 11 Resubmission](https://github.com/UVADS/DS-2006/blob/main/assignments/hw11-diagnostic-odds.md) | | 17<br> &nbsp; | | 19<br>DUE: [HW 15](https://github.com/UVADS/DS-2006/blob/main/assignments/hw15-binomial-negbinomial-practice-problems.md)&nbsp; |
 | 22<br> DUE: [Deliverable 2 Resubmission](https://github.com/UVADS/DS-2006/blob/main/deliverables/deliverable2-simulation-error.md) | | 24<br>&nbsp; | | 26<br>[KDE](https://tgstewart.cloud/cdf-pdf-kernels.html)<br>[KDE part 2](https://tgstewart.cloud/cdf-pdf-kernels-part2.html)&nbsp; |
 | 29<br>Last class<br>[Exam review](https://tgstewart.cloud/final-exam-prep.html) <br> | | May<br> DUE: [HW 13 Resubmission](https://github.com/UVADS/DS-2006/blob/main/assignments/hw13-confounding-and-randomization.md) <br> DUE: [HW 14 Resubmission](https://github.com/UVADS/DS-2006/blob/main/assignments/hw14-world-series-distribution.md) | | 3<br>&nbsp; |
-| 6<br>&nbsp; | | 8<br>&nbsp;  | 9<br>Final exam<br>9:00am - 12:00pm|  |
+| 6<br>&nbsp; | | 8<br>&nbsp;  | 9<br>Final exam<br>9:00am - 12:00pm|  | -->
 
 <!-- 
 ## Jan 19
@@ -218,56 +250,6 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 ## Feb 21
 * Roulette
         
-
-
-
-| Date | Topics | Reading | Assignment |
-|---:|:---|:---|:---|
-| Jan 22| Syllabus, [Survey/Github setup](https://link.tgstewart.xyz/survey) | | |
-| 26 | Introduction to R, Rmarkdown, Rivanna, Github | [Get started guide](https://rmarkdown.rstudio.com/lesson-1.html) | [HW 00: Rmarkdown](https://github.com/UVADS/DS-2006/blob/main/assignments/00-rmarkdown.md) |
-| 29 | Uncertainty | UU Chapter 1 | [HW 01: Uncertainty](https://github.com/UVADS/DS-2006/blob/main/assignments/01-uncertainty.md) |
-| 31 | | | |
-| Feb 2 | | | |
-| 5 | | | |
-| 7 | | | |
-| 9 | | | |
-| 12 | | | |
-| 14 | Exam review | | |
-| 16 | Exam | | |
-| 19 | | | |
-| 21 | | | |
-| 23 | | | |
-| 26 | | | |
-| 28 | | | |
-| Mar 1 | | | |
-| 4 | | | |
-| 6 | | | |
-| 8 | | | |
-| 11 | | | |
-| 13 | | | |
-| 15 | | | |
-| 18 | | | |
-| 20 | | | |
-| 22 | | | |
-| 25 | | | |
-| 27 | Exam | | |
-| 29 | Exam review | | |
-| Apr 1 | | | |
-| 3 | | | |
-| 5 | | | |
-| 8 | | | |
-| 10 | | | |
-| 12 | | | |
-| 15 | | | |
-| 17 | | | |
-| 19 | | | |
-| 22 | | | |
-| 24 | | | |
-| 26 | | | |
-| 29 | Final exam review  | ||
-| May 9 | Final exam | | |
- | | -->
-
 ## Adjustments
 
 The instructor may alter the course content and grading policies during the semester.
