@@ -184,7 +184,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | | 26<br>Thanksgiving<br>No class |  | 28<br>Thanksgiving<br>No class |   |
 |Dec<br>&nbsp; | 3<br>&nbsp; |  | 5<br>Last day of class |   |
 | | 10<br>&nbsp; |  | 12<br>&nbsp; |   |
-| 16<br>&nbsp; | 17<br>&nbsp; |  |  |   |
+| 16<br>Final Exam<br>&nbsp; | 17<br>&nbsp; |  |  |   |
 
 <!-- | Jan<br>&nbsp; | | 17<br>[Survey/Github setup](https://link.tgstewart.xyz/survey) | | 19<br><details><summary>Reading</summary>[Get started guide](https://rmarkdown.rstudio.com/lesson-1.html)</details>[Intro R](https://tgstewart.cloud/into-r.pptx) |
 | 22<br><details><summary>Reading</summary>[Intro Markdown](https://markdownguide.offshoot.io/getting-started/)<br>[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)</details>| | 24<br>[Tools](https://tgstewart.cloud/tools.pptx)<br>[Reproducable Reports](http://tgstewart.xyz/reproducible-research-tools/) | | 26<br>DUE: [HW1](https://github.com/UVADS/DS-2006/blob/main/assignments/hw1-euler-problems.md)<br><details><summary>Reading</summary>(optional) First 5 videos of [Learn R Programming](https://www.youtube.com/playlist?list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg)<br>(optional) [Intro to VS Code](https://www.youtube.com/watch?v=B-s71n0dHUk)<br>(optional) [Using Git with Visual Studio Code](https://www.youtube.com/watch?v=i_23KUAEtUM) Note that you have already cloned your repo locally, whereas the video creates a fresh repo. </details> |
