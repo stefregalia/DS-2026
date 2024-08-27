@@ -32,10 +32,12 @@ Github: lathangregg
 
 **Format of the class:** In-class time will be a combination of lectures, group assignments, live coding, and student presentations.  **Please note:** Circumstances may require the face-to-face portion of the class to be online.
 
-**Time & Location:** Tues & Thurs, Data Science building Rm 206 10
+**Time & Location:** Tues & Thurs, Data Science building Rm 206
 
-Section 001:  9:30 - 10:45am
-Section 002: 11:00 - 12:15am
+| Section | Time |
+|:---|:---:|
+|1 | 9:30 - 10:45am|
+|2 | 11:00 - 12:15am|
 
 **Instructor Office Hours:** TBD, based on feedback during the first day of class 
 
@@ -172,11 +174,10 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 |:---|:---|:---|:---|:---|
 | Aug&nbsp; |27<br>&nbsp; |  | 29<br>&nbsp; |   |
 | Sep<br>&nbsp; |3<br>&nbsp; |  | 5<br>&nbsp; |   |
-| |10<br>Add deadline<br>&nbsp; |11<br>Drop deadline  | 12<br>&nbsp; |   |
+| |10<br>Add deadline<br>&nbsp; |11<br>Drop deadline<br>&nbsp;  | 12<br>&nbsp; |   |
 | |17<br>&nbsp; |  | 19<br>&nbsp; |   |
 | |24<br>&nbsp; |  | 26<br>&nbsp; |   |
 | Oct<br>&nbsp;| 1<br>&nbsp; |  | 3<br>&nbsp; |   |
-| | 1<br>&nbsp; |  | 3<br>&nbsp; |   |
 | | 8<br>&nbsp; |  | 10<br>&nbsp; |   |
 | | 15<br>Fall reading day<br>No class |  | 17<br>&nbsp; |   |
 | | 22<br>Drop (with W) deadline |  | 24<br>&nbsp; |   |
