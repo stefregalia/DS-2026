@@ -172,16 +172,16 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 <!-- <details><summary>Reading</summary></details> -->
 | Mon | Tue | Wed | Thu | Fri |
 |:---|:---|:---|:---|:---|
-| Aug&nbsp; |27<br>&nbsp; |  | 29<br>&nbsp; |   |
+| Aug<br>&nbsp; |27<br>&nbsp; |  | 29<br>&nbsp; |   |
 | Sep<br>&nbsp; |3<br>&nbsp; |  | 5<br>&nbsp; |   |
 | |10<br>Add deadline<br>&nbsp; |11<br>Drop deadline<br>&nbsp;  | 12<br>&nbsp; |   |
 | |17<br>&nbsp; |  | 19<br>&nbsp; |   |
-| |24<br>&nbsp; |  | 26<br>&nbsp; |   |
+| |24<br>&nbsp; |  | 26<br>Exam 1<br>&nbsp; |   |
 | Oct<br>&nbsp;| 1<br>&nbsp; |  | 3<br>&nbsp; |   |
 | | 8<br>&nbsp; |  | 10<br>&nbsp; |   |
 | | 15<br>Fall reading day<br>No class |  | 17<br>&nbsp; |   |
 | | 22<br>Drop (with W) deadline |  | 24<br>&nbsp; |   |
-| | 29<br>&nbsp; |  | 31<br>Nevada Day&nbsp; |Nov<br>&nbsp;|
+| | 29<br>Exam 2<br>&nbsp; |  | 31<br>Nevada Day<br>&nbsp; |Nov<br>&nbsp;|
 | | 5<br>Election day<br>No class |  | 7<br>&nbsp; |   |
 | | 12<br>&nbsp; |  | 14<br>&nbsp; |   |
 | | 19<br>&nbsp; |  | 21<br>&nbsp; |   |
