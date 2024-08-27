@@ -159,11 +159,7 @@ Midterm exams are graded on a 100 point scale.  For midterm 1, if your grade on 
  
 ## Final exam schedule
 
-| Section | Date & Time |
-|:---|:---|
-| 001 | Tuesday, December 17, 2024  2:00PM-5:00PM |
-| 002 | Monday, December 16, 2024  9:00AM-12:00PM |
-
+The final exam for both sections is **Monday, December 16, 2024 from 9AM to noon**.
 
 ## 2024 Calendar
 
@@ -181,7 +177,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | | 8<br>&nbsp; |  | 10<br>&nbsp; |   |
 | | 15<br>Fall reading day<br>No class |  | 17<br>&nbsp; |   |
 | | 22<br>Drop (with W) deadline |  | 24<br>&nbsp; |   |
-| | 29<br>&nbsp; |  | 31<br>Nevada Day<br>Exam 2<br>&nbsp; |Nov<br>&nbsp;|
+| | 29<br>Exam 2<br>&nbsp; |  | 31<br>Nevada Day<br>&nbsp; |Nov<br>&nbsp;|
 | | 5<br>Election day<br>No class |  | 7<br>&nbsp; |   |
 | | 12<br>&nbsp; |  | 14<br>&nbsp; |   |
 | | 19<br>&nbsp; |  | 21<br>&nbsp; |   |
