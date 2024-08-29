@@ -163,13 +163,13 @@ The final exam for both sections is **Monday, December 16, 2024 from 9AM to noon
 
 ## 2024 Calendar
 
-Homeworks, deliverables, reading assignments, and exams will be posted on the course calendar below.
+Homeworks, deliverables, reading assignments, and exams will be posted on the course calendar below.  Homeworks are due before the start of class.
 
 <!-- <details><summary>Reading</summary></details> -->
 | Mon | Tue | Wed | Thu | Fri |
 |:---|:---|:---|:---|:---|
 | Aug<br>&nbsp; |27<br>&nbsp; |  | 29<br>&nbsp; |   |
-| Sep<br>&nbsp; |3<br>&nbsp; |  | 5<br>&nbsp; |   |
+| Sep<br>&nbsp; |3<br>DUE: [HW](https://github.com/UVADS/DS-2026/blob/main/homework/hw1-euler-problems.md)<br>SLIDES: [Tools](https://tgstewart.cloud/tools.pptx)<br>[Intro to R](https://tgstewart.cloud/into-r.pptx)<br>[Reports](https://tgstewart.cloud/crash-course-in-reproducible-reports.pptx)&nbsp; |  | 5<br>&nbsp; |   |
 | |10<br>Add deadline<br>&nbsp; |11<br>Drop deadline<br>&nbsp;  | 12<br>&nbsp; |   |
 | |17<br>&nbsp; |  | 19<br>&nbsp; |   |
 | |24<br>&nbsp; |  | 26<br>Exam 1<br>&nbsp; |   |
