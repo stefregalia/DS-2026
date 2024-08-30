@@ -39,9 +39,22 @@ Github: lathangregg
 |1 | 9:30 - 10:45am|
 |2 | 11:00 - 12:15am|
 
-**Instructor Office Hours:** TBD, based on feedback during the first day of class 
+**Instructor Office Hours:**
 
-**TA Office Hours:**  TBD, based on feedback during the first day of class
+| Time | Location | 
+|:---:|:---:|
+| Tuesdays @ 4pm | SDS Rm 348 |
+
+**TA Office Hours:**  
+
+| Time | Primary location | Alternate location* |
+|:---:|:---:|:---:|
+| Mondays @ noon | SDS Hub | SDS 4th floor puzzle space |
+| Mondays @ 1pm | SDS Hub | SDS 4th floor puzzle space |
+| Wednesdays @ 2pm | SDS Hub | SDS 4th floor puzzle space |
+| Thursdays @ 4pm | SDS Hub | SDS 4th floor puzzle space |
+
+*If the Hub is being used for an event, office hours will be on the 4th floor landing of the SDS building.
 
 ## Textbooks 
 
