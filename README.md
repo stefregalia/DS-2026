@@ -43,6 +43,8 @@ Github: lathangregg
 
 | Time | Location | 
 |:---:|:---:|
+|:---:|:---:|
+| Tuesdays @ 2pm | SDS Rm 431 |
 | Tuesdays @ 4pm | SDS Rm 348 |
 
 **TA Office Hours:**  
