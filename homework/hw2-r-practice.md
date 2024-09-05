@@ -48,7 +48,7 @@ d1 <- read.csv("http://hbiostat.org/data/repo/2.20.Framingham.csv")
 14. Add a new variable to the `d1` data frame called `bmigt30` where
 
 $$
-\text{bmigt30}_i  = \left\{ \begin{array}{ll} \text{NA} & \text{bmi}_i \text{ is missing} \\ 1 & \text{bmi}_i > 30 \\ 0 & \text{otherwise} \end{array} \right.
+\text{bmigt30}_i  = \left\lbrace \begin{array}{ll} \text{NA} & \text{bmi}_i \text{ is missing} \\ 1 & \text{bmi}_i > 30 \\ 0 & \text{otherwise} \end{array} \right.
 $$
 
 15. The `chdfate` variable in `d1` is an indicator variable for coronary heart disease.  Summarize the `chdfate` column of `d1` by calculating the number and proportion of participants who developed and did not develop coronary heart disease.
