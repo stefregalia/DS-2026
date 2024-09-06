@@ -1,3 +1,4 @@
+```
 require(dplyr)
 
 d1 <- expand.grid(
@@ -33,3 +34,4 @@ x[c(13,1,12),]
 x[c(13,13,13),]
 
 d1 |> shuffle() |> deal()
+```
