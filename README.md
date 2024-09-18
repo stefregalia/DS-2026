@@ -217,7 +217,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Sep<br>&nbsp; |3<br>DUE: [HW 1](https://github.com/UVADS/DS-2026/blob/main/homework/hw1-euler-problems.md)<br>In class: [Working dir](https://tgstewart.cloud/working-directory-and-file-paths.pptx),<br>[Intro R](https://rstudio-education.github.io/hopr/index.html)<br><details><summary>Optional videos</summary>First 5 videos of [Learn R Programming](https://www.youtube.com/playlist?list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg)</details><br>&nbsp; |  | 5<br>&nbsp; |   |
 | |10<br>DUE: [HW 2](https://github.com/UVADS/DS-2026/blob/main/homework/hw2-r-practice.md)<br>Add deadline<br>&nbsp; |11<br>Drop deadline<br>&nbsp;  | 12<br>&nbsp; |   |
 | |17<br>DUE: [HW 3](https://github.com/UVADS/DS-2026/blob/main/homework/hw3-probability-examples.md)&nbsp; |  | 19<br>&nbsp; |   |
-| |24<br>&nbsp; |  | 26<br>Exam 1<br>&nbsp; |   |
+| |24<br>DUE: [HW 4](https://github.com/UVADS/DS-2026/blob/main/homework/hw4-birthday-problem.md)<br>In class: [Exam Prep](https://tgstewart.cloud/midterm1-prep.html)&nbsp; |  | 26<br>Exam 1<br>&nbsp; |   |
 | Oct<br>&nbsp;| 1<br>&nbsp; |  | 3<br>&nbsp; |   |
 | | 8<br>&nbsp; |  | 10<br>&nbsp; |   |
 | | 15<br>Fall reading day<br>No class |  | 17<br>&nbsp; |   |
