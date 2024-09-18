@@ -65,18 +65,14 @@ Please read chapter 3 of Understanding Uncertainty.
 5.  Consider a potentially unfair six-sided die. Let *E* denote the
     outcome of a die roll. If *P*(*E* is even ) = .6, what must *P*(*E*
     is odd ) be? Why?
-6.  Using simulation, create a script that will solve the `Birthday Problem`.  (The code we developed in class is below).
+6.  Using simulation, create a script that will solve the `Birthday Problem`: In a class of 35 individuals, what is the probability that at least two individuals will share a birthday?  (The code we developed in class is below).
 
-$$
-\text{Birthday problem: In a class of 35 individuals, what is the probability that at least two individuals will share a birthday?}
-$$
-
-        a.  What does `set.seed` do in the script?  
-        b.  What does `R` represent?  
-        c.  Does the solution make any assumptions or simplifications?  If so, what are they?  
-        d.  Run both versions of the script.  For version 1, use a class size of 35.  Do both versions give the same answer?  
-        e.  Add vertical and horizontal lines to the plot generated in version 2 which show your estimated probability generated with version 1 code.  
-        f.  Look at the `first_duplicate` function.  What does the function return?  Use `?which` and `?min` to read the documentation of what these commands do.  (Answer: It returns the first instance of _____.)  
+    a.  What does `set.seed` do in the script?  
+    b.  What does `R` represent?  
+    c.  Does the solution make any assumptions or simplifications?  If so, what are they?  
+    d.  Run both versions of the script.  For version 1, use a class size of 35.  Do both versions give the same answer?  
+    e.  Add vertical and horizontal lines to the plot generated in version 2 which show your estimated probability generated with version 1 code.  
+    f.  Look at the `first_duplicate` function.  What does the function return?  Use `?which` and `?min` to read the documentation of what these commands do.  (Answer: It returns the first instance of _____.)  
 
 ## Version 1 of code
 
