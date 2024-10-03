@@ -218,7 +218,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | |10<br>DUE: [HW 2](https://github.com/UVADS/DS-2026/blob/main/homework/hw2-r-practice.md)<br>Add deadline<br>&nbsp; |11<br>Drop deadline<br>&nbsp;  | 12<br>&nbsp; |   |
 | |17<br>DUE: [HW 3](https://github.com/UVADS/DS-2026/blob/main/homework/hw3-probability-examples.md)&nbsp; |  | 19<br>&nbsp; |   |
 | |24<br>DUE: [HW 4](https://github.com/UVADS/DS-2026/blob/main/homework/hw4-birthday-problem.md)<br>In class: [Exam Prep](https://tgstewart.cloud/midterm1-prep.html)&nbsp; |  | 26<br>Exam 1<br>&nbsp; |   |
-| Oct<br>&nbsp;| 1<br>[slides](https://tgstewart.cloud/04-probability-bayes-rule.pdf)<br>[slides](04-more-bayes.pdf)&nbsp; |  | 3<br>&nbsp; |   |
+| Oct<br>&nbsp;| 1<br>[slides](https://tgstewart.cloud/04-probability-bayes-rule.pdf)<br>[slides](https://tgstewart.cloud/04-more-bayes.pdf)&nbsp; |  | 3<br>&nbsp; |   |
 | | 8<br>DUE: [HW 5](https://github.com/UVADS/DS-2026/blob/main/homework/hw5-rules-of-probability.md)&nbsp; |  | 10<br>&nbsp; |   |
 | | 15<br>Fall reading day<br>No class |  | 17<br>&nbsp; |   |
 | | 22<br>Drop (with W) deadline |  | 24<br>&nbsp; |   |
