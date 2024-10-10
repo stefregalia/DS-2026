@@ -220,8 +220,8 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | |24<br>DUE: [HW 4](https://github.com/UVADS/DS-2026/blob/main/homework/hw4-birthday-problem.md)<br>In class: [Exam Prep](https://tgstewart.cloud/midterm1-prep.html)&nbsp; |  | 26<br>Exam 1<br>&nbsp; |   |
 | Oct<br>&nbsp;| 1<br>[slides](https://tgstewart.cloud/04-probability-bayes-rule.pdf)<br>[slides](https://tgstewart.cloud/04-more-bayes.pdf)&nbsp; |  | 3<br>&nbsp; |   |
 | | 8<br>DUE: [HW 5](https://github.com/UVADS/DS-2026/blob/main/homework/hw5-rules-of-probability.md)&nbsp; |  | 10<br>&nbsp; |   |
-| | 15<br>Fall reading day<br>No class |  | 17<br>&nbsp; |   |
-| | 22<br>Drop (with W) deadline |  | 24<br>&nbsp; |   |
+| | 15<br>Fall reading day<br>No class |  | 17<br>In class: [Deliverable 1](https://github.com/UVADS/DS-2026/blob/main/deliverables/deliverable1-roulette.md)&nbsp; | 18<br>DUE (by 11:59pm): [Deliverable 1](https://github.com/UVADS/DS-2026/blob/main/deliverables/deliverable1-roulette.md)   |
+| | 22<br>Drop (with W) deadline |  | 24<br>Exam review<br>&nbsp; |   |
 | | 29<br>Exam 2<br>&nbsp; |  | 31<br>Nevada Day<br>&nbsp; |Nov<br>&nbsp;|
 | | 5<br>Election day<br>No class |  | 7<br>&nbsp; |   |
 | | 12<br>&nbsp; |  | 14<br>&nbsp; |   |
