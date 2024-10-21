@@ -82,7 +82,7 @@ above strategy.
 ### Submission instructions
 
 1.  Create a .qmd (or .rmd) script file which generates an .html or .pdf report with the name `roulette-simulation`
-1.  Submit your reproducible report on GradeScope.  If you generated an .html report, you can "print to pdf" to generate a .pdf for submission.
+1.  Submit your reproducible report on **Canvas**.  If you generated an .html report, you can "print to pdf" to generate a .pdf for submission.
 1.  Be prepared to share your blog post with the class when the
     deliverable is due
 1.  The deliverable should be your own work. You may **discuss**
