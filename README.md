@@ -80,7 +80,7 @@ by Sheldon M. Ross
 
 ## Course notes
 
-[Course notes (link)](https://tgstewart.cloud/_book)
+[Course notes (link)](https://tgstewart.cloud/compprob)
 
 ## Computing
 
