@@ -78,6 +78,10 @@ by Norman Matloff
 Introduction to Probability Models  
 by Sheldon M. Ross 
 
+## Course notes
+
+[Course notes (link)](https://tgstewart.cloud/_book)
+
 ## Computing
 
 The course will be taught using R.
