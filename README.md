@@ -227,7 +227,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | | 15<br>Fall reading day<br>No class |  | 17<br>In class: [Deliverable 1](https://github.com/UVADS/DS-2026/blob/main/deliverables/deliverable1-roulette.md)&nbsp; | 18<br>&nbsp;   |
 | | 22<br>Drop (with W) deadline<br>DUE (by 9:30am): [Deliverable 1](https://github.com/UVADS/DS-2026/blob/main/deliverables/deliverable1-roulette.md) |  | 24<br>[Exam review](https://tgstewart.cloud/midterm2-prep.pdf)<br>&nbsp; |   |
 | | 29<br>Exam 2<br>&nbsp; |  | 31<br>Nevada Day<br>&nbsp; |Nov<br>&nbsp;|
-| | 5<br>Election day<br>No class |  | 7<br>&nbsp; |   |
+| | 5<br>Election day<br>No class |  | 7<br>DUE (by 9:30am): [HW 6](https://github.com/UVADS/DS-2026/blob/main/homework/hw6-datatypes-visualizations.md) |   |
 | | 12<br>&nbsp; |  | 14<br>&nbsp; |   |
 | | 19<br>&nbsp; |  | 21<br>&nbsp; |   |
 | | 26<br>Thanksgiving<br>No class |  | 28<br>Thanksgiving<br>No class |   |
