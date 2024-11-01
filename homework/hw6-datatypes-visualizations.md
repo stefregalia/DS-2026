@@ -1,4 +1,4 @@
-HW: Data types and visualizations
+# HW: Data types and visualizations
 
 ## Submission instructions
 
