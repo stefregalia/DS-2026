@@ -227,11 +227,11 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | | 15<br>Fall reading day<br>No class |  | 17<br>In class: [Deliverable 1](https://github.com/UVADS/DS-2026/blob/main/deliverables/deliverable1-roulette.md)&nbsp; | 18<br>&nbsp;   |
 | | 22<br>Drop (with W) deadline<br>DUE (by 9:30am): [Deliverable 1](https://github.com/UVADS/DS-2026/blob/main/deliverables/deliverable1-roulette.md) |  | 24<br>[Exam review](https://tgstewart.cloud/midterm2-prep.pdf)<br>&nbsp; |   |
 | | 29<br>Exam 2<br>&nbsp; |  | 31<br>Nevada Day<br>&nbsp; |Nov<br>&nbsp;|
-| | 5<br>Election day<br>No class |  | 7<br>DUE (by 9:30am): [HW 6](https://github.com/UVADS/DS-2026/blob/main/homework/hw6-datatypes-visualizations.md) |   |
-| | 12<br>&nbsp; |  | 14<br>DUE (by 9:30 am): [HW 7](https://github.com/UVADS/DS-2026/blob/main/homework/hw7-combinatorics.md)|   |
-| | 19<br>&nbsp; |  | 21<br>&nbsp; |   |
-| | 26<br>Thanksgiving<br>No class |  | 28<br>Thanksgiving<br>No class |   |
-|Dec<br>&nbsp; | 3<br>&nbsp; |  | 5<br>Last day of class |   |
+| | 5<br>Election day<br>No class |  | 7<br>DUE (by 9:30am): [HW 6](https://github.com/UVADS/DS-2026/blob/main/homework/hw6-datatypes-visualizations.md)<br>[Hands/Sequences](https://tgstewart.cloud/hands-and-sequences.pptx) |   |
+| | 12<br>[Discrete RVs](https://tgstewart.cloud/compprob/discrete.html)&nbsp; |  | 14<br>DUE (by 9:30 am): [HW 7](https://github.com/UVADS/DS-2026/blob/main/homework/hw7-combinatorics.md) <br> [Continuous RVs](https://tgstewart.cloud/compprob/Continuous-RVs.html)|   |
+| | 19<br>[KDE, MM]()&nbsp; |  | 21<br>DUE: [HW 8]()<br>[MLE/Bayes]()&nbsp; |   |
+| | 26<br>DUE: [HW 9]()Thanksgiving<br>No class |  | 28<br>Thanksgiving<br>No class |   |
+|Dec<br>&nbsp; | 3<br>Due: [Deliverable 2]()&nbsp; |  | 5<br>Last day of class |   |
 | | 10<br>&nbsp; |  | 12<br>&nbsp; |   |
 | 16<br>Final Exam<br>&nbsp; | 17<br>&nbsp; |  |  |   |
 
