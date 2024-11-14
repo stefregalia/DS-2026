@@ -228,7 +228,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | | 22<br>Drop (with W) deadline<br>DUE (by 9:30am): [Deliverable 1](https://github.com/UVADS/DS-2026/blob/main/deliverables/deliverable1-roulette.md) |  | 24<br>[Exam review](https://tgstewart.cloud/midterm2-prep.pdf)<br>&nbsp; |   |
 | | 29<br>Exam 2<br>&nbsp; |  | 31<br>Nevada Day<br>&nbsp; |Nov<br>&nbsp;|
 | | 5<br>Election day<br>No class |  | 7<br>DUE (by 9:30am): [HW 6](https://github.com/UVADS/DS-2026/blob/main/homework/hw6-datatypes-visualizations.md)<br>[Hands/Sequences](https://tgstewart.cloud/hands-and-sequences.pptx) |   |
-| | 12<br>[Discrete RVs](https://tgstewart.cloud/compprob/discrete.html)&nbsp; |  | 14<br>DUE (by 9:30 am): [HW 7](https://github.com/UVADS/DS-2026/blob/main/homework/hw7-combinatorics.md) <br> [Continuous RVs](https://tgstewart.cloud/compprob/Continuous-RVs.html)|   |
+| | 12<br>[Discrete RVs](https://tgstewart.cloud/compprob/discrete.html)&nbsp; |  | 14<br>DUE (by 9:30 am): [HW 7](https://github.com/UVADS/DS-2026/blob/main/homework/hw7-combinatorics.md) <br> [Continuous RVs](https://tgstewart.cloud/compprob/Continuous-RVs.html)<br>[Pen Drop](https://docs.google.com/spreadsheets/d/1Lpox0wMH0lS_5y_ELvEj-Dd8xBkbTN085ZWjaRKflFg/edit?usp=sharing)|   |
 | | 19<br>[KDE, MM]()&nbsp; |  | 21<br>DUE: [HW 8]()<br>[MLE/Bayes]()&nbsp; |   |
 | | 26<br>DUE: [HW 9]()Thanksgiving<br>No class |  | 28<br>Thanksgiving<br>No class |   |
 |Dec<br>&nbsp; | 3<br>Due: [Deliverable 2]()&nbsp; |  | 5<br>Last day of class |   |
