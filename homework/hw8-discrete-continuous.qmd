@@ -1,6 +1,6 @@
 ---
 title: HW 8 - Discrete and continuous random variables
-format: markdown
+format: gfm
 ---
 
 # Question 1

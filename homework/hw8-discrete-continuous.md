@@ -1,7 +1,5 @@
----
-title: HW 8 - Discrete and continuous random variables
-toc-title: Table of contents
----
+HW 8 - Discrete and continuous random variables
+================
 
 # Question 1
 
@@ -9,34 +7,26 @@ It is believed that about 11% of the population is left-handed. Generate
 a plot of the probability mass function for number of left-handed
 students in a class of 20.
 
-::: cell
-``` {.r .cell-code}
+``` r
 x <- 0:20
 p <- rep(0,21) # something else goes here
 plot(x,p, xlab = "Number of left-handed students in class of 20", ylab = "Probability", pch = 16)
 ```
 
-::: cell-output-display
-![](hw8-discrete-continuous_files/figure-markdown/unnamed-chunk-1-1.png)
-:::
-:::
+![](hw8-discrete-continuous_files/figure-gfm/unnamed-chunk-1-1.png)
 
 # Question 2
 
 Continuing from question 1, generate a plot of the cumulative
 probability function.
 
-::: cell
-``` {.r .cell-code}
+``` r
 x <- 0:20
 cp <- rep(0,21) # something else goes here
 plot(x,cp, xlab = "Number of left-handed students in class of 20", ylab = "Cumulative probability", pch = 16)
 ```
 
-::: cell-output-display
-![](hw8-discrete-continuous_files/figure-markdown/unnamed-chunk-2-1.png)
-:::
-:::
+![](hw8-discrete-continuous_files/figure-gfm/unnamed-chunk-2-1.png)
 
 # Question 3
 
@@ -86,15 +76,11 @@ under the curve which corresponds to low birthweight infants.
 HINT: The following code shows how to shade the region from 0 to 0.6
 under the gamma density curve with the `polygon` command.
 
-::: cell
-``` {.r .cell-code}
+``` r
 curve(dgamma(x, 5, 12), 0, 1.25, ylab = "Density")
 x <- seq(0, 0.6, length=200)
 y <- dgamma(x, 5, 12)
 polygon(c(0,x,0.6), c(0,y,0), col = "#abcabc50")
 ```
 
-::: cell-output-display
-![](hw8-discrete-continuous_files/figure-markdown/unnamed-chunk-3-1.png)
-:::
-:::
+![](hw8-discrete-continuous_files/figure-gfm/unnamed-chunk-3-1.png)
