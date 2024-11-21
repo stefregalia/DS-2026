@@ -1,26 +1,28 @@
-# Clinical trial
+# 2024-11-12 In-class group exercise
 
-Serum creatinine is a blood measurement.  High serum creatinine values (greater than 1.4) may indicate poor renal function.
+### Question 1
 
-In this group project, you will collect and analyze data from a clinical trial in which individuals with high serum creatinine are randomized to placebo or treatment.  The goal of the trial is to determine if the treatment reduced serum creatinine levels compared to placebo.  Serum creatinine is measured at baseline and after size weeks of treatment.  To collect data for the trial, navigate to [http://api.tgstewart.cloud/random](http://api.tgstewart.cloud/random).  Each time the site is refreshed, the data for a new trial participant is generated.  It may look something like this:
+Based on the Method of Moments, find the Gamma distribution for the pendrop dataset.
 
+Plot the pendrop histogram and the estimated gamma distribution in the same graph.
+
+```{r}
+pendrop_data <- readRDS(url("https://tgstewart.cloud/pendrop.RDS"))
 ```
-baseline	1.611
-trt	        1
-endpoint	1.701
-```
 
-The variables `baseline` and `endpoint` are the serum creatinine values at baseline and six weeks.  The variable `trt` is 1 if the participant was randomized to treatment or 0 if randomized to placebo.
+Find the probability of a measure lower than .4.
 
-As a group, do the following:
 
-1. Create a dataset of trial data, collecting as many observations as you deem needful to answer the research question.
-2. Create an html quarto report (with `embed-resources: true`) with the following elements:
-   1. The dataset via the `datatable` command in the `DT` library.
-   2. A visualization comparing the distribution of baseline serum creatinine values between treated and placebo groups.  
-   3. An estimate of the endpoint distributions using maximum likelihood, method or moments, or kernel density estimation.  Create a single figure which shows the estimates of the pdf for both groups.  Use labels or a legend to identify each pdf.
-   4. Create a new variable which is the difference between the endpoint and baseline measurement.  Using the new variable, repeat the previous step.
-   5. Based on your visualizations, do you think the treatment works?  Why or why not?
+
+### Question 2
+
+#### Coin Toss - Estimating the Probability of Heads
+
+**Problem:** You flip a coin 20 times and get 7 heads. Estimate the probability of getting heads using MLE.
+
+Plot the estimated binomial distribution.
+
+Find the probability of 10 or more heads in 20 flips.
 
 ## Submission instructions:
 
