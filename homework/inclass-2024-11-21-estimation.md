@@ -10,7 +10,7 @@ Plot the pendrop histogram and the estimated gamma distribution in the same grap
 pendrop_data <- readRDS(url("https://tgstewart.cloud/pendrop.RDS"))
 ```
 
-Find the probability of a measure lower than .4.
+Find the probability of a measure lower than 4.
 
 
 
