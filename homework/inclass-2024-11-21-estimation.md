@@ -28,6 +28,6 @@ Find the probability of 10 or more heads in 20 flips.
 
 1. In Canvas, navigate to `People` then `MLE & Method of Moments Group`
 2. Add yourself to the same group as your partners.
-3. Submit a single html report for the group in Canvas in the assignments tab.
+3. Submit a single quarto html report (with `embed-resources: true`) for the group in Canvas in the assignments tab.
 4. Make sure every group member's name is on the report.
    
