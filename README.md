@@ -231,7 +231,8 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | | 12<br>[Discrete RVs](https://tgstewart.cloud/compprob/discrete.html)&nbsp; |  | 14<br>DUE (by 9:30 am): [HW 7](https://github.com/UVADS/DS-2026/blob/main/homework/hw7-combinatorics.md) <br> [Continuous RVs](https://tgstewart.cloud/compprob/Continuous-RVs.html)<br>[Pen Drop](https://docs.google.com/spreadsheets/d/1Lpox0wMH0lS_5y_ELvEj-Dd8xBkbTN085ZWjaRKflFg/edit?usp=sharing)|   |
 | | 19<br>[KDE, MM]()&nbsp; |  | 21<br>In class: [In class](https://github.com/UVADS/DS-2026/blob/main/homework/inclass-2024-11-21-estimation.md) <br> DUE: [HW 8](https://github.com/UVADS/DS-2026/blob/main/homework/hw8-discrete-continuous.md)<br>[MLE/Bayes]()&nbsp; | 22 <br> DUE: [HW 6 Resubmission](https://canvas.its.virginia.edu/courses/121395/assignments/591957) <br> [HW 8 Resubmission](https://canvas.its.virginia.edu/courses/121395/assignments/594052) &nbsp; |
 | | 26<br>DUE: [HW 9](homework/hw9-model-estimation.md) <br> [HW 7 Resubmission](https://canvas.its.virginia.edu/courses/121395/assignments/593922) <br> Thanksgiving <br>No class |  | 28<br>Thanksgiving<br>No class |   |
-|Dec<br>&nbsp; | 3<br>DUE: [Deliverable 2]()&nbsp; |  | 5 <br> DUE: [Deliverable 2 Resubmission]() <br> [HW 9 Resubmission]() <br> Last day of class &nbsp;|   |
+|Dec<br>&nbsp; | 3<br>&nbsp; |  | 5 <br>[Final prep](https://tgstewart.cloud/final-exam-prep.html
+) <br> DUE: Deliverable 2<br> [HW 9 Resubmission]() <br> Last day of class &nbsp;|   |
 | | 10<br>&nbsp; |  | 12<br>&nbsp; |   |
 | 16<br>Final Exam<br>&nbsp; | 17<br>&nbsp; |  |  |   |
 
